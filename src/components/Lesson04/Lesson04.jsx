@@ -1,4 +1,4 @@
-import './styles.css'
+import './Lesson04.css'
 import Button from "../../components/Button/Button";
 
 function Lesson04() {
